@@ -25,3 +25,6 @@ Scenario 2: i) The interest rate is compounded quarterly. ii) Interest is calcul
 Consider 1000 customers for both the scenario, divide these 1000 customers into following groups(upon your assumption and understanding about the credit lending industry)
 
 1.Customers who pay the bill within the credit-free period 2.Customers paying 30 days after the last due date 3.Customer paying 45 days after the last due date 4.Customer paying 60 days after the last due date(remove these customers for the complete calculation of the next month,basically, you are not supposed to provide further credit services to these customers)
+
+# View Notebook Here:
+https://nbviewer.jupyter.org/github/AarushGProjects/Maximizing-Profit-For-A-Credit-Card-Company/blob/master/Case_Study.ipynb
