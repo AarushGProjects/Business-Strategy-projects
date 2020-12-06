@@ -26,8 +26,8 @@ Consider 1000 customers for both the scenario, divide these 1000 customers into 
 
 1.Customers who pay the bill within the credit-free period 2.Customers paying 30 days after the last due date 3.Customer paying 45 days after the last due date 4.Customer paying 60 days after the last due date(remove these customers for the complete calculation of the next month,basically, you are not supposed to provide further credit services to these customers)
 
-# View Notebook Here:
+# View Notebook Here (Finance):
 https://nbviewer.jupyter.org/github/AarushGProjects/Maximizing-Profit-For-A-Credit-Card-Company/blob/master/Case_Study.ipynb
 
-# View Notebook Here:
+# View Notebook Here (Marketing):
 https://nbviewer.jupyter.org/github/AarushGProjects/Business-Strategy-projects/blob/master/KMeans_Clustering%20.ipynb
