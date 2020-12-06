@@ -28,3 +28,6 @@ Consider 1000 customers for both the scenario, divide these 1000 customers into 
 
 # View Notebook Here:
 https://nbviewer.jupyter.org/github/AarushGProjects/Maximizing-Profit-For-A-Credit-Card-Company/blob/master/Case_Study.ipynb
+
+# View Notebook Here:
+https://nbviewer.jupyter.org/github/AarushGProjects/Business-Strategy-projects/blob/master/KMeans_Clustering%20.ipynb
